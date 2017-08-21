@@ -1,0 +1,42 @@
+#obama { 
+  text-align:center;
+}
+
+body {
+  background-color:blue;
+  color:white;
+}
+
+img {
+  width:1000px;
+}
+
+caption {
+  text-align:center;
+}
+
+#life {
+  text-align:center;
+}
+
+.dates {
+  font-weight:bold;
+  margin-left:-25px;
+}
+
+ul {
+  text-align:center;
+}
+
+li {
+  list-style: none;
+  list-style-position:inside;
+  text-align:left;
+  margin-left:450px;
+}
+
+.centered {
+  margin-right:450px;
+  margin-left:450px;
+  text-align:left;
+}
